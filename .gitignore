@@ -3,5 +3,6 @@ notebook.cfg
 notebook.env
 notebook.ini
 ds.xlsx
+ds.csv
 homicidios.xlsx
 vif.csv
